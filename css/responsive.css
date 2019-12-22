@@ -1,0 +1,47 @@
+@media screen and (max-width: 480px)
+	{
+		.container{
+			width: 100%;
+			/*background: red;*/
+
+		}
+		.header{
+			padding: 20px;
+
+		}
+		.body_wrapper{
+			margin-left: 20px;
+			height: 280px;
+			/*background: brown;*/
+		}
+		.body_wrapper h2{
+			font-size: 30px;
+			/*display: none;*/
+			
+		}
+		nav ul{
+			display: none;
+		}
+		nav span{
+			display: block;
+
+		}
+		#About{
+			width: 100%;
+		}
+		.content{
+			padding: 20px;
+
+		}
+		.left{
+			width: 100%;
+			
+		}
+		.left h3{
+			padding-right: 20px; 
+		}
+		.right{
+			width: 100%;
+			margin-top: -30px;
+		}
+	}
